@@ -31,6 +31,6 @@
 
 ## Используемые библиотеки
 
-*Python*
-*pandas*
+*Python*,
+*pandas*,
 *Spark*
